@@ -16,7 +16,7 @@ Building Aubia, an AI cockpit that orchestrates coding agents and runs cross-rev
 
 ## Why Aubia
 
-A model that self-reviews catches around 30 percent of its own bugs. Two LLMs from different providers cross-reviewing each other catch 80 percent and more.
+The simplest way to not see a mistake is to be the one who made it. Another agent from a different provider brings what no self-review can : another perspective, free of shared bias.
 
 So Aubia is not yet another agent. It is a panel of agents that argue with each other and ship you code that has already been challenged. BYOK strict, privacy by design, no token reselling.
 

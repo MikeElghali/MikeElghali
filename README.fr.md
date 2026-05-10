@@ -16,7 +16,7 @@ Je construis Aubia, un cockpit IA qui orchestre vos agents de codage et les fait
 
 ## Pourquoi Aubia
 
-Un modèle qui s'auto-relit ne détecte qu'environ 30 % de ses propres erreurs. Deux LLM de providers différents en cross-review en détectent 80 % et plus.
+Le moyen le plus simple de ne pas voir une erreur, c'est d'être celui qui l'a écrite. Un agent d'un autre provider apporte ce qu'aucun self-review ne donne : un autre regard, sans biais commun.
 
 Aubia n'est donc pas un agent de plus. C'est un panel d'agents qui argumentent entre eux et vous livrent du code déjà passé au crible. BYOK strict, privacy by design, aucune revente de tokens.
 
