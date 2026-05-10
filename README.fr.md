@@ -27,7 +27,7 @@ Aubia n'est donc pas un agent de plus. C'est un panel d'agents qui argumentent e
 | Aubia (waitlist) | <https://aubia.dev> |
 | Aubia community | [aubia-dev/community](https://github.com/aubia-dev/community) |
 | LinkedIn perso | [mike-el-ghali](https://www.linkedin.com/in/mike-el-ghali/) |
-| LinkedIn Aubia | [Aubia](https://www.linkedin.com/company/aubia) |
+| LinkedIn Aubia | [Aubia](https://www.linkedin.com/company/aubia-dev) |
 | X perso | [@mike_elghali](https://x.com/mike_elghali) |
 | X Aubia | [@aubia_dev](https://x.com/aubia_dev) |
 | Email Aubia | `contact@aubia.dev` |
