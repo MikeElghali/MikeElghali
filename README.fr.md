@@ -1,35 +1,9 @@
-# Mike EL GHALI
-
 [English](README.md) | **Français**
 
-**CTO @cegelem-sas | Fondateur @aubia-dev**
+Je suis artisan du Web depuis 2009 et CTO depuis dix ans. J'ai conçu de zéro des systèmes d'information et dirigé des équipes, jusqu'à six développeurs, en cherchant à faire progresser chacun avec autant de bienveillance que de rigueur.
 
-Je construis Aubia, un cockpit IA qui orchestre vos agents de codage et les fait se relire mutuellement.
+Ma façon de travailler a changé en février 2025, avec la première préview de Claude Code, puis avec Codex CLI peu après. En les faisant tourner tour à tour, j'ai vite compris ce qui me manquait : que l'un relise ce que l'autre venait d'écrire. Un agent voit mal ses propres erreurs, alors qu'un modèle d'une autre famille n'a pas ses angles morts.
 
-[![Aubia](https://img.shields.io/badge/Fondateur-Aubia-blueviolet)](https://aubia.dev) [![Cegelem](https://img.shields.io/badge/CTO-Cegelem%20depuis%202020-blue)](https://cegelem.fr) [![Phase](https://img.shields.io/badge/Aubia%20Phase-0%20Waitlist-green)](https://aubia.dev) [![Made in](https://img.shields.io/badge/Made%20in-Paris%20FR-blueviolet)](https://aubia.dev)
+C'est pour combler ce manque que j'ai fondé Aubia en avril 2026. Dans ce cockpit desktop, chaque sortie d'un agent est relue par le modèle d'un autre provider avant de me parvenir : Claude implémente, Codex relit, Mistral teste et j'arbitre. Je le conçois et je l'écris seul. Son code est privé, et ses discussions publiques se tiennent dans [aubia-dev/community](https://github.com/aubia-dev/community/discussions).
 
-## En ce moment
-
-- **Aubia** : waitlist Phase 0 ouverte depuis le 11 mai 2026. Beta 0.1 macOS Apple Silicon en Q3 2026. v1.0 en Q4 2026.
-- **Cegelem** : CTO depuis février 2020.
-- **Build in public** : updates hebdomadaires sur la construction d'Aubia partagés sur X et LinkedIn.
-
-## Pourquoi Aubia
-
-Le moyen le plus simple de ne pas voir une erreur, c'est d'être celui qui l'a écrite. Un agent d'un autre provider apporte ce qu'aucun self-review ne donne : un autre regard, sans biais commun.
-
-Aubia n'est donc pas un agent de plus. C'est un panel d'agents qui argumentent entre eux et vous livrent du code déjà passé au crible. BYOK strict, privacy by design, aucune revente de tokens.
-
-## Me trouver
-
-| Où | Lien |
-|---|---|
-| Aubia (waitlist) | <https://aubia.dev> |
-| Aubia community | [aubia-dev/community](https://github.com/aubia-dev/community) |
-| LinkedIn perso | [mike-el-ghali](https://www.linkedin.com/in/mike-el-ghali/) |
-| LinkedIn Aubia | [Aubia](https://www.linkedin.com/company/aubia-dev) |
-| X perso | [@mike_elghali](https://x.com/mike_elghali) |
-| X Aubia | [@aubia_dev](https://x.com/aubia_dev) |
-| Email Aubia | `contact@aubia.dev` |
-
-Construit en public, depuis Paris.
+**Aubia fait relire chaque agent IA par un autre.** Si vous faites travailler vous aussi plusieurs agents, la liste d'attente de l'accès anticipé est ouverte sur [aubia.dev](https://aubia.dev/fr). J'échange aussi volontiers avec d'autres fondateurs, des CTO ou des curieux de l'orchestration d'agents, sur [X](https://x.com/mike_elghali) ou [LinkedIn](https://www.linkedin.com/in/mike-el-ghali/).
